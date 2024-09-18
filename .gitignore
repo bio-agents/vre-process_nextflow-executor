@@ -1,0 +1,16 @@
+*.py.ini
+*.txt
+.python-version
+*.pyc
+.py*Env
+*~
+*.DS_Store
+*_build*
+.eggs*
+*.egg-info*
+.cache
+/tests/data/tmp
+/agent.log
+/WF-checkouts/
+/*-test/
+/test-results/
