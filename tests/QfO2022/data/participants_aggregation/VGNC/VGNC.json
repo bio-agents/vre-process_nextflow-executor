@@ -1,15 +1,3 @@
-{
-  "_id": "QfO:VGNC_agg",
-  "challenge_ids": ["VGNC"],
-  "datalink": {
-    "inline_data": {
-      "challenge_participants": [],
-      "visualization": {
-        "type": "2D-plot",
-        "x_axis": "TPR",
-        "y_axis": "PPV"
-      }
-    }
-  },
-  "type": "aggregation"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:849a43b87f902d087390fba77ebc7917d1a72b4f099d940e825f83816e371be1
+size 275
